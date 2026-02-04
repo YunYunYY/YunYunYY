@@ -1,4 +1,13 @@
+<!---
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yun's%20Github)
+--->
+## 👋 About Me
+👀 Hi, I'm Sowon
+
+I enjoy identifying and structuring problems that arise in operational environments.  
+I have gained hands-on experience in IT operations and support by working directly with on-site systems and equipment.  
+I value not only building systems well, but also ensuring they work reliably in real-world use.
+
 
 
 ## 📧 Contact
@@ -8,7 +17,7 @@
   <a href="https://wonyun.tistory.com/"></a><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/>
 </p>
 
-## 💻 Studying & Using
+## 💻 Learning & Using
 <p>
   <img src="https://img.shields.io/badge/Java-b07219?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -21,8 +30,9 @@
 </p>
 
 
-
+<!---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunYunYY&layout=compact)
+--->
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hope1609)](https://solved.ac/hope1609)
 
