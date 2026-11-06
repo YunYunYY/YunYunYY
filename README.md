@@ -14,7 +14,7 @@ I value not only building systems well, but also ensuring they work reliably in 
 <p>
   <img src="https://img.shields.io/badge/yunyunyy1234612@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
 <a href="https://www.instagram.com/wonwonwonpon/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-  <a href="https://wonyun.tistory.com/"></a><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/>
+  <a href="https://wonyun.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"/></a>
 </p>
 
 ## 💻 Learning & Using
